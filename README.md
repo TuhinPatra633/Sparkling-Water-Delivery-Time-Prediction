@@ -1,4 +1,4 @@
-# Sparkling-Water-Delivery Time-Prediction
+# Sparkling Water Delivery Time Prediction
 # Zomato Delivery Time Prediction using Sparkling H2O Multinode
 
 ## Overview
