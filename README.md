@@ -63,7 +63,7 @@ Please follow \`instructions.txt\` file
 
 - A screenshot of the predicted and original time is available below and in the \`sparkling_water_running_images\` folder with the filename \`prediction plot.png\`.
 
-![Model Training Prediction](sparkling_water_running_images/prediction plot.png)
+![Model Training Prediction](sparkling_water_running_images/prediction_plot.png)
 
 ## Contributing
 
