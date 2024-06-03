@@ -14,13 +14,11 @@ The project involves the following steps:
 
 ## Folder Structure
 
-\`\`\`
 .
 ├── Data
-│   ├── ZomatoDataset1.csv
-|
+│   └── ZomatoDataset1.csv
 ├── sparkling_water_running_images
-│   ├── prediction plot.png
+│   ├── prediction_plot.png
 │   ├── dataset_loading.png
 │   ├── model_training_prediction.png
 │   └── ...
@@ -28,7 +26,7 @@ The project involves the following steps:
 ├── requirements.txt
 ├── Project Work Outline.txt
 └── instructions.txt
-\`\`\`
+
 
 ### Data Folder
 
