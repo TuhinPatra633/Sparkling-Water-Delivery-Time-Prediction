@@ -1,5 +1,5 @@
-# Sparkling-Water-Price-Prediction
-# Zomato Price Prediction using Sparkling H2O Multinode
+# Sparkling-Water-Delivery Time-Prediction
+# Zomato Delivery Time Prediction using Sparkling H2O Multinode
 
 ## Overview
 
