@@ -12,20 +12,14 @@ The project involves the following steps:
 4. Training the machine learning model using H2O’s algorithms.
 5. Evaluating the model’s performance and making predictions.
 
-## Folder Structure
+## Repository Structure
 
-.
-├── Data
-│   └── ZomatoDataset1.csv
-├── sparkling_water_running_images
-│   ├── prediction_plot.png
-│   ├── dataset_loading.png
-│   ├── model_training_prediction.png
-│   └── ...
-├── spark3.py
-├── requirements.txt
-├── Project Work Outline.txt
-└── instructions.txt
+- `data/`: Directory containing the dataset files used for training and testing the model.
+- `sparkling_water_running_images/`: Directory containing images of various stages of the project.
+- `spark3.py`: The main Python script to run the project.
+- `requirements.txt`: Lists the dependencies required for the project.
+- `Project Work Outline.txt`: Provides a detailed outline of the project work.
+- `instructions.txt`: Contains instructions for setting up and running the project.
 
 
 ### Data Folder
