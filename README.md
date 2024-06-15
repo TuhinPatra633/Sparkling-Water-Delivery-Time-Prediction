@@ -1,6 +1,6 @@
 # Sparkling Water Delivery Time Prediction
 # Zomato Delivery Time Prediction using Sparkling H2O Multinode
-<img src="sparkling_water_running_images/banner.jpeg" alt="Banner" width="400"/>
+<img src="sparkling_water_running_images/banner.jpeg" alt="Banner" width="500"/>
 
 ## Overview
 
